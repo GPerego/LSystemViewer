@@ -1,6 +1,7 @@
 # LSystem Viewer
 
-A [LSystem](https://en.wikipedia.org/wiki/L-system) viewer made using Java.
+A [LSystem](https://en.wikipedia.org/wiki/L-system) viewer made using Java.<br/>
+Inspired by [this video](https://www.youtube.com/watch?v=E1B4UoSQMFw), by [Daniel Shiffman](https://github.com/shiffman) (From YouTube channel "[Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)").
 
 Project found in the src directory.<br/>
 Dependencies found in the lib directory.
